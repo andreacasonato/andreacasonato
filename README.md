@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/3708fe4d-bb7a-48a7-8a83-443bfff22dae)<h1>Hi, I'm Andrea</h1>
+<h1>Hi, I'm Andrea</h1>
 <h3>A software developer with a background in UX/UI Design.</h3>
 
 <p>🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.</p>
