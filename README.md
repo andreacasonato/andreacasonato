@@ -1,8 +1,8 @@
-<h1 align="center">Hi, I'm Andrea</h1>
-<h3 align="center">A software developer with a background in UX/UI Design.</h3>
+<h1>Hi, I'm Andrea</h1>
+<h3>A software developer with a background in UX/UI Design.</h3>
 
-- 🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.
-- 🌱 Currently deepening my Javascript skills and working on my very first SaaS.
+🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.
+🌱 Currently deepening my Javascript skills and working on my very first SaaS.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
