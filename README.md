@@ -1,4 +1,4 @@
-<h1>Hi, I'm Andrea</h1>
+![image](https://github.com/user-attachments/assets/3708fe4d-bb7a-48a7-8a83-443bfff22dae)<h1>Hi, I'm Andrea</h1>
 <h3>A software developer with a background in UX/UI Design.</h3>
 
 <p>🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.</p>
@@ -9,7 +9,7 @@
 <a href="https://linkedin.com/in/andrea-casonato" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andrea-casonato" height="30" width="40" /></a>
 <a href="https://dribbble.com/andreacaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg" alt="andreacaso" height="30" width="40" /></a>
 <a href="https://www.behance.net/andreacaso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="andreacaso" height="30" width="40" /></a>
-<a href="[https://www.youtube.com/c/kasodevs]([https://www.youtube.com/@kasodevs](https://www.youtube.com/@kasodevs))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasodevs" height="30" width="40" /></a>
+<a href="[[https://www.youtube.com/c/kasodevs](https://www.youtube.com/@kasodevs)]([https://www.youtube.com/@kasodevs](https://www.youtube.com/@kasodevs))" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="kasodevs" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
