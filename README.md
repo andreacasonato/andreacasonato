@@ -1,4 +1,3 @@
-<h1>Hi, I'm Andrea</h1>
 <h3>A software developer with a background in UX/UI Design.</h3>
 
 <p>🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.</p>
