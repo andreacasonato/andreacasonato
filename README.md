@@ -1,4 +1,4 @@
-<h3>A software developer with a background in UX/UI Design.</h3>
+<h3>Software developer with a background in UX/UI Design.</h3>
 
 <p>🔭 I'm interested in web development, creating and developing user interfaces as well as web apps.</p>
 <p>🌱 Currently deepening my Javascript skills and working on my very first SaaS.</p>
