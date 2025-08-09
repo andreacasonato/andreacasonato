@@ -1,4 +1,4 @@
-<h3 align="left">Software developer with a background in UX/UI Design.</h3>
+<h3 align="left">Software developer with a background in UI/UX Design.</h3>
 
 ###
 
