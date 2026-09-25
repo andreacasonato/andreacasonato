@@ -1,4 +1,6 @@
-<p data-importer="text" align="left">💻 Full-Stack Software Engineer<br>🎓 Computer Science student<br>⚙️ Learning Linux, devOps and cloud infrastructure<br>📕 Now building spacerepeat.com</p>
+<p data-importer="text" align="left">💻 Full-Stack Software Engineer<br>🎓 Computer Science student<br>⚙️ Learning Linux, devOps and cloud infrastructure<br>📕 Now building <a href="https://spacerepeat.com">Space Repeat</p>
+
+<a href="https://www.w3schools.com">Visit W3Schools</a>
 
 ###
 
