@@ -1,4 +1,4 @@
-<p data-importer="text" align="left">💻 Full-Stack Software Engineer<br>🎓 Computer Science student<br>⚙️ Learning Linux, devOps and cloud infrastructure<br>📕 Now building <a href="https://spacerepeat.com" target="_blank">Space Repeat</p>
+<p data-importer="text" align="left">💻 Full-Stack Software Engineer<br>🎓 Computer Science student<br>⚙️ Learning Linux, devOps and cloud infrastructure<br>📕 Now building <a href="https://spacerepeat.com" target="_blank">Space Repeat</p>, the first learning app on STEM subjects.
 
 ###
 
