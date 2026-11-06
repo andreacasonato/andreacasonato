@@ -1,4 +1,9 @@
-<p data-importer="text" align="left">💻 Full-Stack Software Engineer<br>🎓 Computer Science student<br>⚙️ Learning Linux, devOps and cloud infrastructure<br>📕 Now building <a href="https://spacerepeat.com" target="_blank">Space Repeat</p>, the first learning app on STEM subjects.
+<p align="left">
+💻 Full-Stack Software Engineer<br>
+🎓 Computer Science student<br>
+⚙️ Learning Linux, DevOps and cloud infrastructure<br>
+📕 Building <a href="https://spacerepeat.com" target="_blank">Space Repeat</a> - the first learning app specializing on STEM subjects.
+</p>
 
 ###
 
